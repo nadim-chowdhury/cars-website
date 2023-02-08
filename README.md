@@ -1,3 +1,3 @@
 # cars-website
 
-A simple multipage car website created by using html and css.
+A simple multipage car website created by using html and css for practice purpose.
